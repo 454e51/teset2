@@ -1,0 +1,1 @@
+window.ABCDEFG = 123;
